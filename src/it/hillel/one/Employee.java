@@ -1,3 +1,5 @@
+package it.hillel.one;
+
 public class Employee {
     private String fullName;
     private String position;
